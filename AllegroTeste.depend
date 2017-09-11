@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1501629079 source:/home/lucas/Documentos/AllegroTeste/main.cpp
+	"../include/MainHeader.h"
+	"../include/MySystem.h"
+	"../include/Plataform.h"
+
+1501627834 /home/lucas/Documentos/AllegroTeste/include/MainHeader.h
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1501627734 /home/lucas/Documentos/AllegroTeste/include/MySystem.h
+	"MainHeader.h"
+
+1501631462 /home/lucas/Documentos/AllegroTeste/include/Plataform.h
+	"../include/MainHeader.h"
+	"../include/MySystem.h"
+
+1501629116 source:/home/lucas/Documentos/AllegroTeste/src/MySystem.cpp
+	"../include/MySystem.h"
+
+1501630994 source:/home/lucas/Documentos/AllegroTeste/src/Plataform.cpp
+	"../include/Plataform.h"
+
